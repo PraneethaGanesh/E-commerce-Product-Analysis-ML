@@ -37,21 +37,21 @@ This project analyzes product data from an Amazon-like e-commerce platform using
 * Open the notebook in your browser
 
 ## 📚 Technologies Used
-## Python
+### Python
 
-**Web Scraping: BeautifulSoup, Scrapy, or Selenium (for data collection from websites)**
+* **Web Scraping: BeautifulSoup, Scrapy, or Selenium (for data collection from websites)**
 
-**Data manipulation and analysis: Pandas, NumPy**
+* **Data manipulation and analysis: Pandas, NumPy**
 
-**Machine Learning: Scikit-learn (Classification, Clustering, Evaluation)**
+* **Machine Learning: Scikit-learn (Classification, Clustering, Evaluation)**
 
-**Natural Language Processing (NLP): NLTK, SpaCy, or similar libraries (for text preprocessing and feature extraction)**
+* **Natural Language Processing (NLP): NLTK, SpaCy, or similar libraries (for text preprocessing and feature extraction)**
 
-**Data visualization: Seaborn, Matplotlib**
+* **Data visualization: Seaborn, Matplotlib**
 
-## SQL (SQLite or PostgreSQL) for data querying and integration
+### SQL (SQLite or PostgreSQL) for data querying and integration
 
-## Jupyter Notebook for interactive coding, analysis, and visualization
+### Jupyter Notebook for interactive coding, analysis, and visualization
 
 ## 🤝 Contributions
 This project welcomes contributions! 🧑‍💻
