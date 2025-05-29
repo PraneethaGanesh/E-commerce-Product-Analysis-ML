@@ -49,9 +49,13 @@ This project analyzes product data from an Amazon-like e-commerce platform using
 
 * **Data visualization: Seaborn, Matplotlib**
 
-### SQL (SQLite or PostgreSQL) for data querying and integration
+### SQL (SQLite or PostgreSQL) 
 
-### Jupyter Notebook for interactive coding, analysis, and visualization
+**Data querying and integration**
+
+### Jupyter Notebook 
+
+**Interactive coding, analysis, and visualization**
 
 ## 🤝 Contributions
 This project welcomes contributions! 🧑‍💻
